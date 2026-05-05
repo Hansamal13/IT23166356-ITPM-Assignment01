@@ -3,6 +3,8 @@
 ##  Project Title
 Automated Testing for Singlish to Sinhala Transliteration System
 
+## Repository Link
+-- https://github.com/Hansamal13/IT23166356-ITPM-Assignment01.git
 
 ##  Project Structure
 
